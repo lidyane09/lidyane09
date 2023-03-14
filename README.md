@@ -1,4 +1,4 @@
-Oi! Eu sou a Lidyane Augusto 🤗
+Oi! Eu sou a Lidyane!🤗
 
 - 🔭 Estou a procura de um estágio.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas.
