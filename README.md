@@ -21,6 +21,9 @@ Oi! Eu sou a Lidyane Augusto 🤗
     <a href = "mailto:lidyaugust123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
+
   ![lidyane09 GitHub stats](https://github-readme-stats.vercel.app/api?username=lidyane09&show_icons=true&theme=radical)
+  
+  ![Snake animation](https://github.com/lidyane09/lidyane09/blob/output/github-contribution-grid-snake.svg)
 
 
