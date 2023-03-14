@@ -23,4 +23,4 @@ Oi! Eu sou a Lidyane Augusto 🤗
   
   ![lidyane09 GitHub stats](https://github-readme-stats.vercel.app/api?username=lidyane09&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/lidyane09/lidyane09/blob/output/github-contribution-grid-snake.svg)
+
