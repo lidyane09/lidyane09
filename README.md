@@ -11,8 +11,10 @@ Oi! Eu sou a Lidyane!🤗
   <img align="center" alt="Lidy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lidy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  ![WhatsApp Image 2023-04-03 at 19 24 22](https://user-images.githubusercontent.com/120928489/229647394-5271da75-3731-4dc5-b357-cc940440d201.jpeg)
+  ![avatar2](https://user-images.githubusercontent.com/120928489/229651038-c3b0acb9-e9a0-4b9a-9edb-b9f4dbe683d4.jpeg)
 
+
+  
   </div>
   
 ##
